@@ -35,27 +35,28 @@ const SignUpPage=(props)=>{
                     <Form.Control type="text" placeholder="Enter first name"/>
                 </Form.Group>
 
-                <Form.Group controlId="formBasicLastName">
-                    <Form.Label class="col-xs-3">Last Name</Form.Label>
-                    <Form.Control type="text" placeholder="Enter last name" />
-                </Form.Group>
+                    <Form.Group controlId="formBasicLastName">
+                        <Form.Label class="col-xs-3">Last Name</Form.Label>
+                        <Form.Control type="text" placeholder="Enter last name" />
+                    </Form.Group>
 
-                <Form.Group controlId="formBasicEmail">
-                    <Form.Label class="col-xs-3">Email</Form.Label>
-                    <Form.Control type="email" placeholder="Enter email" />
-                </Form.Group>
+                        <Form.Group controlId="formBasicEmail">
+                            <Form.Label class="col-xs-3">Email</Form.Label>
+                            <Form.Control type="email" placeholder="Enter email" />
+                        </Form.Group>
 
-                <Form.Group controlId="formBasicPassword">
-                    <Form.Label class="col-xs-3">Password</Form.Label>
-                    <Form.Control type="password" placeholder="Password" />
-                </Form.Group>
+                        <Form.Group controlId="formBasicPassword">
+                            <Form.Label class="col-xs-3">Password</Form.Label>
+                            <Form.Control type="password" placeholder="Password" />
+                        </Form.Group>
 
-                <Form.Group controlId="formBasicPasswordConfirmation">
-                    <Form.Label class="col-xs-3">Password Confirmation</Form.Label>
-                    <Form.Control type="password" placeholder="Password" />
-                </Form.Group>
+                    <Form.Group controlId="formBasicPasswordConfirmation">
+                        <Form.Label class="col-xs-3">Password Confirmation</Form.Label>
+                        <Form.Control type="password" placeholder="Password" />
+                    </Form.Group>
+                    
                 <Button variant="dark" type="submit">
-                    Submit
+                    Sign Up
                 </Button>
             </Form>
         </main>

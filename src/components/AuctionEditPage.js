@@ -54,7 +54,7 @@ const AuctionEditPage = (props)=>{
                     <textarea name='description' id='description' defaultValue={auction ? auction.description : '' } cols='60' rows='5'/>
                 </div>
                 <div>
-                    <input type='submit' value='Update Auction' />
+                    <input type='submit' value='Update Auction' /> 
                 </div>
             </form>
         </main>

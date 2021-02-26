@@ -55,7 +55,7 @@ const NewAuctionForm = (props)=>{
                         <Form.Control type="price" placeholder="$" />
                     </Form.Group>
                     <Button variant="dark" type="submit">
-                        Submit
+                        Save
                     </Button>
                 </Form>
         </div>

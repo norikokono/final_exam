@@ -29,7 +29,7 @@ const SignInPage =({handleSubmit, history})=>{
                     <Form.Control type="password" placeholder="Password" />
                 </Form.Group>
                 <Button variant="dark" type="submit">
-                    Submit
+                    Sign In
                 </Button>
             </Form>
         </main>
