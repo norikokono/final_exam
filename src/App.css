@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  height: 700px;
+  width: 900px;
+}
+
+.container {
+  position: relative;
+}
+
+.top-left {
+  position: absolute;
+  top: 26px;
+  left: 150px;
+  text-align: left;
+  color:rgb(77, 75, 3);
+  font-family: 'Bradley Hand','Brush Script MT', cursive;
+  font-size: 46px;
+  font-style: oblique;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 3px solid #a79f86;
+  background-color: #414040;
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Bradley Hand','Brush Script MT', cursive;
+  font-style: oblique;
+}
+
+Form {
+  width: 600px;
+  height: 50px;
+  display: table; 
+  margin-left: auto;
+  margin-right: auto;
+}
