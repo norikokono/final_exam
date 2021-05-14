@@ -1,3 +1,9 @@
+![screencapture-localhost-5500-2021-05-13-17_36_04](https://user-images.githubusercontent.com/55174696/118204340-dfad0000-b412-11eb-8db8-00b69a4def85.png)
+![screencapture-localhost-5500-auctions-71-2021-05-13-17_41_23](https://user-images.githubusercontent.com/55174696/118204353-e471b400-b412-11eb-92d3-c1d1dd075330.png)
+![screencapture-localhost-5500-auctions-new-2021-02-26-15_32_55](https://user-images.githubusercontent.com/55174696/118204380-edfb1c00-b412-11eb-8545-74a7c1cb895e.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
